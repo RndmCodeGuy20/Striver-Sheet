@@ -33,6 +33,11 @@ public:
             cout << endl;
         }
     }
+
+    void RotateMatrixOnePlace(vector<vector<int>> &matrix) {
+        int n = matrix.size();
+        
+    }
 };
 
 int main() {
@@ -41,7 +46,15 @@ int main() {
                                   {4, 5, 6},
                                   {7, 8, 9}};
 
-    solution.rotate(matrix);
+    // solution.rotate(matrix);
+    solution.RotateMatrixOnePlace(matrix);
+
+    for (auto &item: matrix) {
+        for (auto &item2: item) {
+            cout << item2 << " ";
+        }
+        cout << endl;
+    }
 
     return 0;
 }
