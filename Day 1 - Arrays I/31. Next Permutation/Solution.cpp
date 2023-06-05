@@ -1,32 +1,31 @@
 #include <bits/stdc++.h>
+
 using namespace std;
 
 class Solution {
 public:
-    void nextPermutation(vector<int>& nums) {
-        int n = nums.size(), index = -1;
-        for(int i=n-2; i>=0; i--){
-            if(nums[i] < nums[i+1]){
-                index = i;
-                break;
-            }
-        }
-        for(int i=n-1; i>=index && index != -1; i--){
-            if(nums[i] > nums[index]){
-                swap(nums[i], nums[index]);
-                break;
-            }
-        }
-        reverse(nums.begin() + index + 1, nums.end());
+    void nextPermutation(vector<int> &nums) {
+        int n = nums.size();
+        int inflectionPoint = n - 2;
+        int next = n - 1;
 
-        for(int i=0; i<n; i++){
-            cout << nums[i] << " ";
+        while (inflectionPoint >= 0 && nums[inflectionPoint] >= nums[inflectionPoint + 1]) inflectionPoint--;
+
+        if (inflectionPoint >= 0) {
+            while (nums[next] < nums[inflectionPoint]) next--;
+            swap(nums[next], nums[inflectionPoint]);
+        }
+
+        reverse(nums.begin() + inflectionPoint + 1, nums.end());
+
+        for (int item: nums) {
+            cout << item << " ";
         }
     }
 };
 
-int main(){
+int main() {
     Solution solution;
-    vector<int> nums = {1,2,3};
-   solution.nextPermutation(nums);
+    vector<int> nums = {5, 1, 3, 4, 2};
+    solution.nextPermutation(nums);
 }

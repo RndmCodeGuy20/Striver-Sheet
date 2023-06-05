@@ -1,6 +1,9 @@
 # 60 Days Coding Challenge - ✅ ACCEPTED
 
-From June 1, 2023 I started my journey of completing the entire [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/), to make myself ready for the upcoming interviews. I will be solving 5 questions daily and will be updating my progress here.
+From June 1, 2023 I started my journey of completing the
+entire [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/), to
+make myself ready for the upcoming interviews. I will be solving 5 questions daily and will be updating my progress
+here.
 
 ## Day 1: June 1, 2023
 
@@ -8,7 +11,7 @@ From June 1, 2023 I started my journey of completing the entire [Striver's SDE S
 
 - Set Matrix Zeroes 🟩
 - Pascal's Triangle 🟩
-- Next Permutation -- `Important` -- `Marked for Revision` 🟧
+- Next Permutation -- `Important` -- `Marked for Revision` 🟩
 - Kadane's Algorithm 🟩
 - Sort Colors -- `Marked for Revision` 🟩
 - Stock Buy and Sell I 🟩
@@ -17,9 +20,9 @@ From June 1, 2023 I started my journey of completing the entire [Striver's SDE S
 
 **Today's Progress**: Solved 5 questions from Arrays II.
 
-- Rotate Image 🟩 (for rotate 90°) 🟥 (for one element at a time)
+- Rotate Image 🟩 (for rotate 90°) 🟧 (for one element at a time)
 - Merge Overlapping Intervals 🟩
-- Merge Without Extra Space -- `Marked for Revision` 🟧
+- Merge Without Extra Space -- `Marked for Revision` 🟩
 - Find the Duplicate Number -- `Important` 🟩
 - Repeat and Missing Number 🟩
 - Inversion of Array -- `Important` -- `Marked for Revision` 🟥

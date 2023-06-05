@@ -8,41 +8,46 @@ using namespace std;
 class Solution {
 public:
     void merge(vector<int> &nums1, int m, vector<int> &nums2, int n) {
+        int ptr = m + n - 1;
+        int high1 = m - 1;
+        int high2 = n - 1;
 
-        int left = m - 1;
-        int right = 0;
-
-
-        while (left >= 0 && right < n) {
-            if (nums1[left] > nums2[right]) {
-                cout << nums1[left] << " " << nums2[right] << endl;
-                swap(nums1[left], nums2[right]);
-                left--, right++;
-
+        while (high1 > 0 && high2 >= 0) {
+            if (nums1[high1] >= nums2[high2]) {
+                nums1[ptr] = nums1[high1];
+                high1--;
+                ptr--;
             } else {
-                break;
+                nums1[ptr] = nums2[high2];
+                high2--;
+                ptr--;
             }
         }
 
-        sort(nums2.begin(), nums2.end());
-        sort(nums1.begin(), nums1.end());
-
-        for (int i = 0; i < m; ++i) {
-            cout << nums1[m] << " ";
+        while (high2 >= 0) {
+            nums1[ptr] = nums2[high2];
+            high2--;
+            ptr--;
         }
-        for (int i = 0; i < n; ++i) {
-            cout << nums2[n] << " ";
+
+
+//        if (ptr == high2) {
+//            nums1[ptr] = nums2[ptr];
+//        }
+
+        for (int item: nums1) {
+            cout << item << " ";
         }
     }
 };
 
 int main() {
 
-    vector<int> nums1 = {1, 3, 5, 7};
-    vector<int> nums2 = {0, 2, 4, 6, 8};
+    vector<int> nums1 = {2, 0};
+    vector<int> nums2 = {1};
 
     Solution solution;
-    solution.merge(nums1, nums1.size(), nums2, nums2.size());
+    solution.merge(nums1, 1, nums2, 1);
 
 
     return 0;
