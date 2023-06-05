@@ -49,8 +49,8 @@ here.
 
 **Today's Progress**: Continue to solve previous questions due to End Semester Exams.
 
-- Next Permutation 🕓
-- Rotate Image (one at a time) 🕓
-- Merge Without Extra Space 🕓
-- Inversion of Array 🕓
+- Next Permutation ✅
+- Rotate Image (one at a time) 🟧
+- Merge Without Extra Space ✅
+- Inversion of Array ✅
 - Reverse Pairs 🕓
