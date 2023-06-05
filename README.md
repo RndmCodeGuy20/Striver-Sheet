@@ -51,6 +51,3 @@ From June 1, 2023 I started my journey of completing the entire [Striver's SDE S
 - Merge Without Extra Space 🕓
 - Inversion of Array 🕓
 - Reverse Pairs 🕓
-
-write a commit message that describes changing the README.md and adding gitignore
-write here - change the README.md and adding gitignore
