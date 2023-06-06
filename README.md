@@ -54,3 +54,10 @@ here.
 - Merge Without Extra Space ✅
 - Inversion of Array ✅
 - Reverse Pairs 🕓
+
+## Day 6: June 6, 2023
+
+**Today's Progress**: Solved 6 questions from Arrays IV.
+
+- Two Sum 🟩
+- 4 Sum 🟩 - `Important`
