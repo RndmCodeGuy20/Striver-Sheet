@@ -61,3 +61,4 @@ here.
 
 - Two Sum 🟩
 - 4 Sum 🟩 - `Important`
+- Longest Consecutive Sequence 🟩
