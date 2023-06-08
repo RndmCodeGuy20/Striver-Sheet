@@ -1,8 +1,9 @@
 # 60 Days Coding Challenge - ✅ ACCEPTED
 
-From June 1, 2023 I started my journey of completing the
+From June 1, 2023, I started my journey of completing the
 entire [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/), to
-make myself ready for the upcoming interviews. I will be solving 5 questions daily and will be updating my progress
+make myself ready for the upcoming interviews. I will be trying to solve 5 questions daily and will be updating my
+progress
 here.
 
 ## Day 1: June 1, 2023
@@ -64,6 +65,10 @@ here.
 - Longest Consecutive Sequence 🟩
 
 ## Day 7: June 7, 2023
+
+**Today's Progress**: End Sems 😔
+
+## Day 8: June 8, 2023
 
 **Today's Progress**: Solved rest 3 questions from Arrays IV.
 
