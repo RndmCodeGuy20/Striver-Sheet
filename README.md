@@ -57,8 +57,16 @@ here.
 
 ## Day 6: June 6, 2023
 
-**Today's Progress**: Solved 6 questions from Arrays IV.
+**Today's Progress**: Solved 3 questions from Arrays IV.
 
 - Two Sum 🟩
 - 4 Sum 🟩 - `Important`
 - Longest Consecutive Sequence 🟩
+
+## Day 7: June 7, 2023
+
+**Today's Progress**: Solved rest 3 questions from Arrays IV.
+
+- Largest Subarray with 0 Sum 🟩
+- Largest Subarray with XOR K 🟧 - `Marked for Revision`
+- Longest Substring without Repeat 🟩 - `Important` - `Marked for Revision`
