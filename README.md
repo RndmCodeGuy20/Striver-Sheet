@@ -6,13 +6,13 @@ make myself ready for the upcoming interviews. I will be trying to solve 5 quest
 progress
 here.
 
-|   Sunday    |   Monday   |  Tuesday  | Wednesday  |  Thursday  |   Friday    |  Saturday   |
-|:-----------:|:----------:|:---------:|:----------:|:----------:|:-----------:|:-----------:|
-|             |            |           |            | 1 <br/> ❇️ | 2 <br/> ❇️  | 3 <br/> ❇️  |
-|  4 <br/> ✨  | 5 <br/> ❇️ | 6 <br/> ✨ | 7 <br/> 🥊 | 8 <br/> ❇️ | 9  <br/> 🥊 | 10 <br/> 🥊 |
-| 11 <br/> ❇️ |     12     |    13     |     14     |     15     |     16      |     17      |
-|     18      |     19     |    20     |     21     |     22     |     23      |     24      |
-|     25      |     26     |    27     |     28     |     29     |     30      |     30      |
+|   Sunday    |   Monday    |  Tuesday  | Wednesday  |  Thursday  |   Friday    |  Saturday   |
+|:-----------:|:-----------:|:---------:|:----------:|:----------:|:-----------:|:-----------:|
+|             |             |           |            | 1 <br/> ❇️ | 2 <br/> ❇️  | 3 <br/> ❇️  |
+|  4 <br/> ✨  | 5 <br/> ❇️  | 6 <br/> ✨ | 7 <br/> 🥊 | 8 <br/> ❇️ | 9  <br/> 🥊 | 10 <br/> 🥊 |
+| 11 <br/> ❇️ | 12 <br/> ❇️ |    13     |     14     |     15     |     16      |     17      |
+|     18      |     19      |    20     |     21     |     22     |     23      |     24      |
+|     25      |     26      |    27     |     28     |     29     |     30      |     30      |
 
 ## Day 1: June 1, 2023
 
@@ -88,7 +88,7 @@ here.
 
 **Today's Progress**: End Sems 😔
 
-## Day 10: June 10, 2023
+## <span style="background: #F8837930; padding: 3px; border-radius: 7px">Day 10: June 10, 2023</span>
 
 **Today's Progress**: End Sems 😔
 
@@ -102,3 +102,14 @@ here.
 - Add Two Numbers as Lists 🟩
 - Remove Nth Node from End of List 🟩 - `Important`
 - Delete Node in a Linked List 🟩 -- `Important`
+
+## Day 12: June 12, 2023
+
+**Today's Progress**: Solved 6 Questions from Linked List II.
+
+- Find Intersection Point of Y LinkedList 🟩
+- Detect a Cycle in Linked List 🟩
+- Reverse a Linked List in Groups of K 🟩 - `Important` -- `Hard`
+- Check if a Linked List is a Palindrome 🟧
+- Find the starting point of the Loop 🟩
+- Flatten a Linked List 🟧 - `Important`
