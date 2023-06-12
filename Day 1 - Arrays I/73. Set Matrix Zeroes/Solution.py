@@ -27,4 +27,3 @@ class Solution:
 if __name__ == "__main__":
     solution: Solution = Solution()
     print(solution.setZeroes([[0, 1, 2, 0], [3, 4, 5, 2], [1, 3, 1, 5]]))
-    # print(solution.markCoords(1, 1, [[1, 1, 1], [1, 0, 1], [1, 1, 1]]))
