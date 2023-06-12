@@ -6,6 +6,14 @@ make myself ready for the upcoming interviews. I will be trying to solve 5 quest
 progress
 here.
 
+|   Sunday    |   Monday   |  Tuesday  | Wednesday  |  Thursday  |   Friday    |  Saturday   |
+|:-----------:|:----------:|:---------:|:----------:|:----------:|:-----------:|:-----------:|
+|             |            |           |            | 1 <br/> ❇️ | 2 <br/> ❇️  | 3 <br/> ❇️  |
+|  4 <br/> ✨  | 5 <br/> ❇️ | 6 <br/> ✨ | 7 <br/> 🥊 | 8 <br/> ❇️ | 9  <br/> 🥊 | 10 <br/> 🥊 |
+| 11 <br/> ❇️ |     12     |    13     |     14     |     15     |     16      |     17      |
+|     18      |     19     |    20     |     21     |     22     |     23      |     24      |
+|     25      |     26     |    27     |     28     |     29     |     30      |     30      |
+
 ## Day 1: June 1, 2023
 
 **Today's Progress**: Solved 6 questions from Arrays I.
@@ -75,3 +83,22 @@ here.
 - Largest Subarray with 0 Sum 🟩
 - Largest Subarray with XOR K 🟧 - `Marked for Revision`
 - Longest Substring without Repeat 🟩 - `Important` - `Marked for Revision`
+
+## Day 9: June 9, 2023
+
+**Today's Progress**: End Sems 😔
+
+## Day 10: June 10, 2023
+
+**Today's Progress**: End Sems 😔
+
+## Day 11: June 11, 2023
+
+**Today's Progress**: Solved 6 Questions from Linked List I.
+
+- Reverse a Linked List 🟩
+- Find Middle of Linked List 🟩
+- Merge Two Sorted Linked List 🟩
+- Add Two Numbers as Lists 🟩
+- Remove Nth Node from End of List 🟩 - `Important`
+- Delete Node in a Linked List 🟩 -- `Important`
