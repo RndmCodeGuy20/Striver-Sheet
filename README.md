@@ -102,3 +102,14 @@ here.
 - Add Two Numbers as Lists 🟩
 - Remove Nth Node from End of List 🟩 - `Important`
 - Delete Node in a Linked List 🟩 -- `Important`
+
+## Day 12: June 12, 2023
+
+**Today's Progress**: Solved 6 Questions from Linked List II.
+
+- Find Intersection Point of Y LinkedList 🟩
+- Detect a Cycle in Linked List 🟩
+- Reverse a Linked List in Groups of K 🟩 - `Important` -- `Hard`
+- Check if a Linked List is a Palindrome 🟧
+- Find the starting point of the Loop 🟩
+- Flatten a Linked List 🟧 - `Important`
