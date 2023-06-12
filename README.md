@@ -88,7 +88,7 @@ here.
 
 **Today's Progress**: End Sems 😔
 
-## Day 10: June 10, 2023
+## <span style="background: #F8837930; padding: 3px; border-radius: 7px">Day 10: June 10, 2023</span>
 
 **Today's Progress**: End Sems 😔
 
