@@ -5,12 +5,6 @@ class Solution:
         for i in nums:
             rez[i] += 1
 
-        print(rez)
-        # for i in rez.keys():
-        #     if rez[i] != 0:
-        #         k = i
-        #         break
-        # print(k)
         k = 0
         for i in range(len(nums)):
             if rez[k] != 0:
@@ -27,6 +21,4 @@ class Solution:
 if __name__ == '__main__':
     solution = Solution()
 
-    # solution.SortColors([0, 1, 2, 1, 2, 0, 0, 1])
     solution.SortColors([0, 2])
-    # solution.SortColors([2])
