@@ -10,7 +10,7 @@ here.
 |:-----------:|:-----------:|:---------:|:----------:|:----------:|:-----------:|:-----------:|
 |             |             |           |            | 1 <br/> ❇️ | 2 <br/> ❇️  | 3 <br/> ❇️  |
 |  4 <br/> ✨  | 5 <br/> ❇️  | 6 <br/> ✨ | 7 <br/> 🥊 | 8 <br/> ❇️ | 9  <br/> 🥊 | 10 <br/> 🥊 |
-| 11 <br/> ❇️ | 12 <br/> ❇️ |    13     |     14     |     15     |     16      |     17      |
+| 11 <br/> ❇️ | 12 <br/> ❇️ |    13 <br/> ❇️    |     14     |     15     |     16      |     17      |
 |     18      |     19      |    20     |     21     |     22     |     23      |     24      |
 |     25      |     26      |    27     |     28     |     29     |     30      |     30      |
 
@@ -113,3 +113,12 @@ here.
 - Check if a Linked List is a Palindrome 🟧
 - Find the starting point of the Loop 🟩
 - Flatten a Linked List 🟧 - `Important`
+
+## Day 13: June 13, 2023
+
+**Today's Progress**: Solved 3 Questions from Linked List and Arrays.
+
+- Rotate a Linked List 🟩
+- 3 Sum 🟩
+- Max Consecutive Ones 🟩
+- Clone a Linked List with Random and Next Pointer 🟥
