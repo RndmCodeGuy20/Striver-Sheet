@@ -9,31 +9,28 @@ using namespace std;
 class Solution {
 public:
     bool isPalindrome(Node *head) {
-        // find middle of the linked list
         Node *slow = head, *fast = head;
 
-        while (fast != nullptr && fast->next != nullptr) {
+        while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        // check linked list from middle and start one element at a time
-        Node *prev = nullptr, *curr = slow, *next = nullptr;
+        Node *curr = slow, *next = nullptr, *prev = nullptr;
 
-        while (curr != nullptr) {
+        while (curr && curr->next) {
             next = curr->next;
             curr->next = prev;
             prev = curr;
             curr = next;
         }
+        if (curr) {
+            curr->next = prev;
+        }
 
         Node *ptr = head;
-
-        while (prev != nullptr) {
-            if (prev->data != ptr->data) {
-                return false;
-            }
-            prev = prev->next;
+        while (ptr) {
+            cout << ptr->data << " ";
             ptr = ptr->next;
         }
 
@@ -42,12 +39,12 @@ public:
 };
 
 int main() {
-    int array[] = {1, 2, 2, 2};
+    int array[] = {1, 2, 2, 1};
     LinkedList *list = new LinkedList(array, 4);
 
     Solution solution;
 
-    cout << solution.isPalindrome(list->head) << endl;
+    solution.isPalindrome(list->head);
 
     return 0;
 }
