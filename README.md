@@ -142,3 +142,11 @@ here.
 - N meetings in one room 🟩
 - Minimum Platforms 🟩
 - Activity Selection 🟩
+
+## Day 17: June 17, 2023
+
+**Today's Progress**: Solved 3 Questions from Greedy Algorithms I.
+
+- Job Sequencing Problem 🟩
+- Fractional Knapsack 🟩
+- Minimum Number of Coins 🟩

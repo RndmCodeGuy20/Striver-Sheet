@@ -26,7 +26,7 @@ public:
         for (int i = 0; i < n; i++) {
             reserve[i].arrival = arrival[i], reserve[i].departure = departure[i];
         }
-        sort(reserve, reserve + n, this->comparator);
+        sort(reserve, reserve + n, Solution::comparator);
 
         depTimes.push_back(reserve[0].departure);
         for (int i = 1; i < n; ++i) {
