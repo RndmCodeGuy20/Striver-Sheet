@@ -11,7 +11,7 @@ here.
 |             |             |             |             | 1 <br/> ❇️  | 2 <br/> ❇️  | 3 <br/> ❇️  |
 |  4 <br/> ✨  | 5 <br/> ❇️  |  6 <br/> ✨  | 7 <br/> 🥊  | 8 <br/> ❇️  | 9  <br/> 🥊 | 10 <br/> 🥊 |
 | 11 <br/> ❇️ | 12 <br/> ❇️ | 13 <br/> ❇️ | 14 <br/> 🥊 | 15 <br/> ❇️ | 16 <br/> ❇️ | 17 <br/> ❇️ |
-|     18      |     19      |     20      |     21      |     22      |     23      |     24      |
+|  18 <br/>   |     19      |     20      |     21      |     22      |     23      |     24      |
 |     25      |     26      |     27      |     28      |     29      |     30      |     30      |
 
 ## Day 1: June 1, 2023
@@ -150,3 +150,51 @@ here.
 - Job Sequencing Problem 🟩
 - Fractional Knapsack 🟩
 - Minimum Number of Coins 🟩
+
+## Day 18: June 18, 2023
+
+**Today's Progress**: Solved 3 Questions from Recursion.
+
+- Subset Sum
+- Subset Sum II
+- Combination Sum
+
+## Day 19: June 19, 2023
+
+**Today's Progress**: Solved 3 Questions from Recursion.
+
+- Combination Sum II
+- Kth Permutation Sequence
+- Palindrome Partitioning
+
+## Day 20: June 20, 2023
+
+**Today's Progress**: Solved 3 Questions from Recursion and Backtracking.
+
+- Permutations
+- N Queens
+- Sudoku Solver
+
+## Day 21: June 21, 2023
+
+**Today's Progress**: Solved 3 Questions from Recursion and Backtracking.
+
+- Rat in a Maze
+- M Coloring Problem
+- Word Break
+
+## Day 22: June 22, 2023
+
+**Today's Progress**: End Sems 😔
+
+## Day 23: June 23, 2023
+
+**Today's Progress**: End Sems 😔
+
+## Day 24: June 24, 2023
+
+**Today's Progress**: End Sems 😔
+
+## Day 25: June 25, 2023
+
+**Today's Progress**: Solved 3 Questions from Recursion and Backtracking.
