@@ -197,4 +197,24 @@ here.
 
 ## Day 25: June 25, 2023
 
-**Today's Progress**: Solved 3 Questions from Recursion and Backtracking.
+**Today's Progress**: Solved 3 Questions from Miscellaneous.
+
+- Contains Duplicate
+- Valid Anagram
+- Subsets
+- Subsets II
+
+## Day 26: June 26, 2023
+
+**Today's Prgress**: End Sems 😔
+
+## Day 27: June 27, 2023
+
+**Today's Progress**: Solved 6 Questions from Binary Search.
+
+- Allocate Books
+- Matrix Median
+- Search in Sorted Rotated Matrix
+- Median of Two Sorted Arrays
+- Single Element in a Sorted Array
+- Find Nth Root of M
