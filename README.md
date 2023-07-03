@@ -7,11 +7,11 @@ progress
 here.
 
 |   Sunday    |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   |
-|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 |             |             |             |             | 1 <br/> ❇️  | 2 <br/> ❇️  | 3 <br/> ❇️  |
-|  4 <br/> ✨  | 5 <br/> ❇️  |  6 <br/> ✨  | 7 <br/> 🥊  | 8 <br/> ❇️  | 9  <br/> 🥊 | 10 <br/> 🥊 |
+| 4 <br/> ✨  | 5 <br/> ❇️  | 6 <br/> ✨  | 7 <br/> 🥊  | 8 <br/> ❇️  | 9 <br/> 🥊  | 10 <br/> 🥊 |
 | 11 <br/> ❇️ | 12 <br/> ❇️ | 13 <br/> ❇️ | 14 <br/> 🥊 | 15 <br/> ❇️ | 16 <br/> ❇️ | 17 <br/> ❇️ |
-|  18 <br/>   |     19      |     20      |     21      |     22      |     23      |     24      |
+|  18 <br/>   |  19 <br/>   |     20      |     21      |     22      |     23      |     24      |
 |     25      |     26      |     27      |     28      |     29      |     30      |     30      |
 
 ## Day 1: June 1, 2023
@@ -218,3 +218,31 @@ here.
 - Median of Two Sorted Arrays
 - Single Element in a Sorted Array
 - Find Nth Root of M
+
+## Day 28: June 28, 2023
+
+**Today's Progress**: Solved 3 Questions from Heap.
+
+- Min/Max Heap
+- Kth Largest Element in an Array
+- Merge K Sorted Arrays
+
+## Day 29: June 29, 2023
+
+**Today's Progress**: Solved 7 Questions from Stack and Queue.
+
+- Implement Stack using Array
+- Implement Queue using Array
+- Implement Stack using Queues
+- Implement Queue using Stacks
+- Next Greater Element
+- Next Smaller Element
+- Check for Balanced Parenthesis
+
+## Day 30: June 30, 2023
+
+**Today's Progress**: Solved 3 Questions from Stack and Queue.
+
+- LRU Cache
+- LFU Cache
+- Largest Rectangle in Histogram

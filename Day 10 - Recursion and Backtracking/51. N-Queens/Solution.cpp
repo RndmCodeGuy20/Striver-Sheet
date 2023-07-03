@@ -48,11 +48,12 @@ public:
 int main() {
 
     Solution solution;
-    vector<vector<string>> rez = solution.solveNQueens(4);
 
-    for (const auto &i: rez) {
-        for (const auto &j: i) {
-            cout << j << endl;
+    vector<vector<string>> res = solution.solveNQueens(4);
+
+    for (auto i: res) {
+        for (auto j: i) {
+            cout << j << " ";
         }
         cout << endl;
     }
