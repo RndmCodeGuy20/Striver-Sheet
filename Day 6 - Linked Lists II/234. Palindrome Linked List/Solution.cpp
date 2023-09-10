@@ -40,11 +40,11 @@ public:
 
 int main() {
     int array[] = {1, 2, 2, 1};
-    LinkedList *list = new LinkedList(array, 4);
+    LinkedList list(array, 4);
 
     Solution solution;
 
-    solution.isPalindrome(list->head);
+    solution.isPalindrome(list.head);
 
     return 0;
 }

@@ -12,12 +12,12 @@ public:
         int count = 1;
         int prevSmaller = INT_MIN;
         int temp = 1;
-        for (int i = 0; i < nums.size(); ++i) {
-            if (nums[i] == prevSmaller + 1) {
+        for (int num: nums) {
+            if (num == prevSmaller + 1) {
                 prevSmaller++;
                 temp++;
-            } else if (nums[i] != prevSmaller) {
-                prevSmaller = nums[i];
+            } else if (num != prevSmaller) {
+                prevSmaller = num;
                 temp = 1;
             }
             count = max(count, temp);
